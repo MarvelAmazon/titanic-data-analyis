@@ -1,0 +1,14 @@
+var_name,Categ,0,1
+Fare_cat,Broze,539,314
+Fare_cat,Gold,2,4
+Fare_cat,Platinium,0,3
+Fare_cat,Silver,8,21
+Parch,0,445,233
+Parch,1,53,65
+Parch,2,40,40
+Parch,3,2,3
+Parch,4,4,0
+Parch,5,4,1
+Parch,6,1,0
+Sex,female,81,233
+Sex,male,468,109
